@@ -15,8 +15,8 @@ I am a passionate learner and aspiring AI professional. I have a keen interest i
 
 ## Contact Me 📩
 
--Email: [owais.sajid002@hotmail.com](mailto:owais.sajid002@hotmail.com)
--LinkedIn: [Muhammad Owais](linkedin-logo.png)](https://www.linkedin.com/in/muhammad-owais-4b58a91bb)
--Fiver: [@muhammadowai618](fiverr-logo.png)](https://www.fiverr.com/s/Qav0Be)
+- Email: [owais.sajid002@hotmail.com](mailto:owais.sajid002@hotmail.com)
+- LinkedIn: [Muhammad Owais](linkedin-logo.png)](https://www.linkedin.com/in/muhammad-owais-4b58a91bb)
+- Fiver: [@muhammadowai618](fiverr-logo.png)](https://www.fiverr.com/s/Qav0Be)
 
 Thank you for visiting my GitHub profile! I'm excited to continue learning, collaborating, and building awesome projects. 😄
