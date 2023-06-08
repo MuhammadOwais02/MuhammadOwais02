@@ -4,7 +4,7 @@ Hi there! I'm Muhammad Owais, a student at Ghulam Ishaq Khan Institute, pursuing
 
 ## About Me 🙋‍♂️
 
-I am a passionate learner and aspiring AI professional. I have a keen interest in natural language processing (NLP), machine learning (ML), computer vision (CV), and deep learning. I enjoy working on web development projects and hoping to build intelligent applications.
+I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Currently learning web development, I enjoy exploring new technologies and constantly expanding my knowledge. Excited about building intelligent applications and embracing continuous learning.
 
 ## Skills 🛠️
 
