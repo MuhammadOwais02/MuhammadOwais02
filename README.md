@@ -16,7 +16,7 @@ I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Cu
 
 ## Contact Me 📩
 
-- Email: [owais.sajid002@hotmail.com](mailto:owais.sajid002@hotmail.com)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> [owais.sajid002@hotmail.com](mailto:owais.sajid002@hotmail.com)
 - LinkedIn: [Muhammad Owais](https://www.linkedin.com/in/muhammad-owais-4b58a91bb)
 - Fiver: [@muhammadowai618](https://www.fiverr.com/s/Qav0Be)
 
