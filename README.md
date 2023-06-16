@@ -7,13 +7,13 @@ Hi there! I'm Muhammad Owais, a student at Ghulam Ishaq Khan Institute, pursuing
 I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Currently learning web development, I enjoy exploring new technologies and constantly expanding my knowledge. Excited about building intelligent applications and embracing continuous learning.
 
 ## Skills 🛠️
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadOwais02&show_icons=true&locale=en&layout=compact" alt="MuhammadOwais02" /></p>
+
 
 - HTML
 - CSS
 - C/C++
 - Python (NLP, ML, CV, Deep Learning)
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadOwais02&show_icons=true&locale=en&layout=compact" alt="MuhammadOwais02" /></p>
 
 ## Contact Me 📩
 
