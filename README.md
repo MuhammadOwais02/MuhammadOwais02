@@ -13,6 +13,8 @@ I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Cu
 - C/C++
 - Python (NLP, ML, CV, Deep Learning)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadOwais02&show_icons=true&locale=en&layout=compact" alt="MuhammadOwais02" /></p>
+
 ## Contact Me 📩
 
 - Email: [owais.sajid002@hotmail.com](mailto:owais.sajid002@hotmail.com)
@@ -20,6 +22,3 @@ I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Cu
 - Fiver: [@muhammadowai618](https://www.fiverr.com/s/Qav0Be)
 
 Thank you for visiting my GitHub profile! I'm excited to continue learning, collaborating, and building awesome projects. 😄
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadOwais02&show_icons=true&locale=en&layout=compact" alt="MuhammadOwais02" /></p>
-
