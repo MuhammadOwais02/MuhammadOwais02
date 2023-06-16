@@ -13,7 +13,7 @@ I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Cu
 - C/C++
 - Python (NLP, ML, CV, Deep Learning)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadOwais02&show_icons=true&locale=en&layout=compact" alt="MuhammadOwais02" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadOwais02&show_icons=true&locale=en&layout=compact" alt="MuhammadOwais02" /></p>
 
 ## Contact Me 📩
 
