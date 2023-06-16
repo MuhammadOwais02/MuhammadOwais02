@@ -17,7 +17,7 @@ I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Cu
 ## Contact Me 📩
 
 - <img align="center" src="outlook-logo.png" height="40" width="40" /> [owais.sajid002@hotmail.com](mailto:owais.sajid002@hotmail.com)
-- LinkedIn: [Muhammad Owais](https://www.linkedin.com/in/muhammad-owais-4b58a91bb)
-- Fiver: [@muhammadowai618](https://www.fiverr.com/s/Qav0Be)
+- <img align="center" src="linkedin-logo.png" height="40" width="40" /> [Muhammad Owais](https://www.linkedin.com/in/muhammad-owais-4b58a91bb)
+- <img align="center" src="fiverr-logo.png" height="40" width="40" /> [@muhammadowai618](https://www.fiverr.com/s/Qav0Be)
 
 Thank you for visiting my GitHub profile! I'm excited to continue learning, collaborating, and building awesome projects. 😄
