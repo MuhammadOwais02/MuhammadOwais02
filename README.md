@@ -12,6 +12,7 @@ I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Cu
 - C/C++
 - Python (NLP, ML, CV, Deep Learning, Data Science.)
 - HTML, CSS ,JS (front end)
+- Linux Systems
 
 ## Tools and Languages 
 
