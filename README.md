@@ -44,19 +44,4 @@ I am an AI enthusiast with a keen interest in NLP, ML, CV, and deep learning. Cu
 
 Thank you for visiting my GitHub profile! I'm excited to continue learning, collaborating, and building awesome projects. 😄
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/muhammadowai618 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-9a2a070e-a6bb-4a9f-878c-54ed4b93fb6c' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >muhammadowai618</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'></div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-9a2a070e-a6bb-4a9f-878c-54ed4b93fb6c' src='https://widgets.fiverr.com/api/v1/seller/muhammadowai618?widget_id=9a2a070e-a6bb-4a9f-878c-54ed4b93fb6c' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
 
