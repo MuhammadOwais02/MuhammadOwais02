@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Muhammad Owais, a student at Ghulam Ishaq Khan Institute, pursuing a Bachelor of Science in Artificial Intelligence. This is my GitHub profile, where you can find a collection of projects and contributions related to web development, NLP, ML, CV, and Deep Learning. Feel free to explore, contribute, and provide feedback. 🚀
+Hi there! I'm Muhammad Owais, a recent graduate from Ghulam Ishaq Khan Institute, with Bachelor of Science in Artificial Intelligence. This is my GitHub profile, where you can find a collection of projects and contributions related to web development, NLP, ML, CV, and Deep Learning. Feel free to explore, contribute, and provide feedback. 🚀
 
 ## About Me 🙋‍♂️
 
